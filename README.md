@@ -1,2 +1,3 @@
 # foj2021
 Repository of the data analyzed within the paper “‘It is a fantasy, not a crisis’: how news outlets covered President Bolsonaro’s false claims during the Covid-19 pandemic”, written by Gehrke, Träsel, and Ozorio, and presented at the Future of Journalism 2021 online conference. Since the study investigates the news coverage developed by Brazilian organizations, the information (dateline, theme, title, news organization, and hyperlink) is available in Portuguese. 
+The abstract can be find here: https://www.researchgate.net/publication/354528218_It_is_a_fantasy_not_a_crisis_how_news_outlets_covered_President_Bolsonaro's_false_claims_during_the_Covid-19_pandemic
